@@ -1,9 +1,14 @@
 ---
-title: Coming soon..
-description: We will be writing something here.. 
+title: Eligibility
+description: Such a long and difficult work
 ---
 
-We will be writing a whole lot.. 
+Visa or residency requirements and restrictions on property purchases for non-residents.
+
 ---
 
-## Please be patient... 
+
+## Visa 
+### residency requirement and restrictions
+
+

@@ -1,9 +1,13 @@
 ---
-title: Coming soon..
-description: We will be writing something here.. 
+title: Fees and cost
+description: Full breakdown of all the cost of purchasing a house in the Netherlands. 
 ---
 
-We will be writing a whole lot.. 
----
+## Notary fees, 
 
-## Please be patient... 
+## Transfer tax
+
+## Mortgage Fees. 
+
+##  Real estate agent fees
+

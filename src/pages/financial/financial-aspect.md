@@ -1,9 +1,18 @@
 ---
-title: Coming soon..
-description: We will be writing something here.. 
+title: Financial Aspects
+description: Financing options, mortgages for non-residents, interest rates, and required down payments.
 ---
 
-We will be writing a whole lot.. 
+Financing options, mortgages for non-residents, interest rates, and required down payments.
 ---
 
-## Please be patient... 
+## Financing Options
+
+## Mortgages for non-residents. 
+
+## interest rates. 
+
+## required down payment 
+
+
+## timelines. 

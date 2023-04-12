@@ -1,9 +1,17 @@
 ---
-title: Coming soon..
-description: We will be writing something here.. 
+title: Popular Areas
+description: What are popular areas in the Netherlands, and where to pay attention to
 ---
 
 We will be writing a whole lot.. 
 ---
 
-## Please be patient... 
+## Map of popular areas. 
+
+## Points of interest to look out for. 
+
+## Scoring public transportation 
+
+## Predicting routes to work
+
+## Scoling areas 

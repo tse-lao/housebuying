@@ -1,9 +1,14 @@
 ---
-title: Coming soon..
-description: We will be writing something here.. 
+title: Making an Offer
+description: How to make an offer when buying a house in the Netherlands. 
 ---
 
-We will be writing a whole lot.. 
----
 
-## Please be patient... 
+## Negotiating. 
+
+## Making an offer. 
+
+## Role of the real estate agent. 
+
+
+
